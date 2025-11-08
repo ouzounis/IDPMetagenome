@@ -1,4 +1,4 @@
-# username, password = 'papastrai@csd.auth.gr', 'vyiNvYCD6g2v6B9'
+# username, password = 'papastrai@csd.auth.gr', '[credentials]'
 #
 # # from pangea_api import Knex, User, Organization
 # #
